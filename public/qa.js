@@ -1,455 +1,456 @@
 qa = [
     {
-        q: "Какой проходной балл необходимо набрать для поступления в университет?",
-        a: "Пороговый балл по основному тэсту составляет сто десять баллов."
+        q: "What is the passing score you need to get to enter the university?",
+        a: "The threshold score for the main test is one hundred and ten."
     },
     {
-        q: "Какие имеются льготы для поступления в ваш вуз?",
-        a: "За хорошие результаты О эРТэ есть скидки до ста процентов. За Аттестат с отличием предусмотрена двадцатипроцентная скидка."
+        q: "What are the benefits for admission to your university?",
+        a: "There are discounts of up to 100% for good results of the OERTE. A 20% discount is provided for the Certificate with Honors."
     },
     {
-        q: "Существуют ли внутренние дополнительные испытания в вузе?",
-        a: "После завершения приёма документов, университет проводит внутренний тэст по английскому для определения уровня знания языка."
+        q: "Are there internal additional tests at the university?",
+        a: "After the completion of the acceptance of documents, the university conducts an internal test in English to determine the level of knowledge of the language."
     },
     {
-        q: "Предоставляется ли иногородним студентам общежитие?",
-        a: "Партнёры Международного университета Ала Тоо предоставляют для иногородних и иностранных студентов общежития."
+        q: "Are nonresident students provided with a hostel?",
+        a: "Partners of Ala Too International University provide hostels for out-of-town and international students."
     },
     {
-        q: "Когда начинается прием документов?",
-        a: "Прием документов начинается с июля месяца каждого года."
+        q: "When does the acceptance of documents start?",
+        a: "Acceptance of documents starts from July of each year."
     },
     {
-        q: "Предоставляется ли отсрочка от армии?",
-        a: "Международный университет Ала Тоо предоставляет студенту отсрочку от армии."
+        q: "Is there a deferment from the army?",
+        a: "Ala Too International University grants student respite from the army."
     },
     {
-        q: "Можно ли использовать результаты О эРТэ прошлых лет?",
-        a: "Нет, нельзя."
+        q: "Is it possible to use the results of O eRTe of previous years?",
+        a: "No, you can't."
     },
     {
-        q: "Что делать, если не набираешь проходной балл по О эРТэ для поступления?",
-        a: "Можно поступить в колледж при университете для обучения на один год и десять месяцев. Затем при желании можете поступить в университет сразу на 2 курс."
+        q: "What to do if you do not score a passing score on O eRTe for admission?",
+        a: "You can go to college at the university for one year and ten months of study. Then, if you wish, you can go to university right away for the 2nd year."
     },
     {
-        q: "Какие направления имеются в колледже?",
-        a: "Экономика и бухгалтерский учёт, маркетинг, компьютерные системы, программное обеспечение вычислительной техники, дизайн"
+        q: "What directions are available in the college?",
+        a: "Economics and accounting, marketing, computer systems, computer software, design"
     },
     {
-        q: "Какие предметы изучаются в подготовительном курсе?",
-        a: "В подготовительном курсе наши студенты изучают английский и турецкий."
+        q: "What subjects are studied in the preparatory course?",
+        a: "In the preparatory course, our students study English and Turkish."
     },
     {
-        q: "Когда нужно оплачивать контракт за обучение?",
-        a: "Плата за обучение можете вносить по частям. Например, по пятьдесят процентов в начале каждого семестра."
+        q: "When do I need to pay for the tuition contract?",
+        a: "Tuition fees can be paid in installments. For example, fifty percent at the beginning of each semester."
     },
     {
-        q: "Возможно ли осуществить перевод с другого ВУЗа?",
-        a: "Да, конечно. Если Вы имеете соответствующий уровень английского языка для перевода в наш университет с других ВУЗов. Да еще, обязательно предоставьте академическую справку для сверки предметов."
+        q: "Is it possible to transfer from another university?",
+        a: "Yes, of course. If you have the appropriate level of English to transfer to our university from other universities. Moreover, be sure to provide an academic certificate for verification of subjects."
     },
     {
-        q: "Можно ли получить дистанционное образование в вашем университете?",
-        a: "Наш центр дистанционного обучения оказывает в полном объёме образовательные услуги по подготовке бакалавров и магистров."
+        q: "Is it possible to get distance education at your university?",
+        a: "Our distance learning center provides a full range of educational services for the preparation of bachelors and masters."
     },
     {
-        q: "Есть ли программы академического обмена для студентов?",
-        a: "Да, есть. Наш университет сотрудничает с более сорока странами партнёрами, куда включены более семидесяти пяти университетов."
+        q: "Are there any academic exchange programs for students?",
+        a: "Yes, there is. Our university cooperates with more than forty partner countries, which include more than seventy-five universities."
     },
     {
-        q: "А ваш университет участвует в программе Эрасмус?",
-        a: "Да, участвует."
+        q: "Does your university participate in the Erasmus program?",
+        a: "Yes, it does."
     },
     {
-        q: "У вас есть курсы английского языка?",
-        a: "Да, конечно. На базе университета имеются отличные курсы для детей и взрослых."
+        q: "Do you have English courses?",
+        a: "Yes, of course. The university has excellent courses for children and adults."
     },
     {
-        q: "Предоставляется ли скидка для абитуриентов из семей с четырех и более детьми?",
-        a: "Таким абитуриентам университет предоставляет десятипроцентную скидку."
+        q: "Is there a discount for applicants from families with four or more children?",
+        a: "For such applicants, the university provides a 10% discount."
     },
     {
-        q: "Предоставляется ли скидка потерявшим одного из родителей?",
-        a: "Наш университет предоставляет десятипроцентную скидку абитуриентам, потерявшим одного из родителей."
+        q: "Is there a discount for those who have lost a parent?",
+        a: "Our university provides a 10% discount to applicants who have lost a parent."
     },
     {
-        q: "Предоставляется ли скидка потерявшим обоих родителей?",
-        a: "Наш университет предоставляет тридцати процентную скидку абитуриентам, потерявшим одного из родителей."
+        q: "Is there a discount for those who have lost both parents?",
+        a: "Our university provides a thirty percent discount to applicants who have lost a parent."
     },
     {
-        q: "Предоставляется ли скидка выпускникам колледжа?",
-        a: "Если Вы являетесь выпускником колледжа Международного университета Ала Тоо, то Вам предоставляется скидка в размере двадцати процентов."
+        q: "Is there a discount for college graduates?",
+        a: "If you are a college graduate of Ala Too International University, you are eligible for a twenty percent discount."
     },
     {
-        q: "Предоставляется ли скидка абитуриентам, которые окончили 9 класс с отличием?",
-        a: "Девятиклассникам, которые закончили школу с отличием при поступлении в колледж МУА, предоставляется десятипроцентная скидка."
+        q: "Is there a discount for applicants who graduated from grade 9 with honors?",
+        a: "Ninth graders who graduate with honors at AMU college are eligible for a 10 percent discount."
     },
     {
-        q: "Какую скидку может получить абитуриент, который окончил колледж  с красным дипломом?",
-        a: "Абитуриентам, окончившим колледж с красным дипломом, предоставляется двадцатипроцентная скидка."
+        q: "What discount can an applicant who graduated from college with honors get?",
+        a: "College graduates with honors receive a 20% discount."
     },
     {
-        q: "Предоставляется ли скидка если имеется красный аттестат? ",
-        a: "Выпускники одиннадцатого класса, успешно окончившие школу с красным аттестатом, могут получить двадцати процентную скидку на обучение на любом факультете университета."
+        q: "Is there a discount if there is a red passport?",
+        a: "Eleventh grade graduates who successfully graduate with a red certificate can receive a twenty percent discount on tuition in any department of the university."
     },
     {
-        q: "Какую скидку я могу получить если набрал сто сорок баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от ста сорока до ста пятидесяти пяти баллов по О эРТэ, то может учиться на любом факультете со скидкой в размере пяти процентов."
+        q: "What discount can I get if I get one hundred and forty points on O eRTe?",
+        a: "If an applicant scored from one hundred and forty to one hundred and fifty-five points in O eRT, then he can study at any faculty with a five percent discount."
     },
     {
-        q: "Какую скидку я могу получить если набрал 156 баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от ста пятидесяти шести до ста семидесяти четырёх баллов по О эРТэ, то может учиться на любом факультете со скидкой в размере десяти процентов."
+        q: "What discount can I get if I get 156 points in About eRTe?",
+        a: "If an applicant scored from one hundred and fifty-six to one hundred and seventy-four points in O eRT, then he can study at any faculty with a ten percent discount."
     },
     {
-        q: "Какую скидку я могу получить если набрал 175 баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от ста семидесяти пяти до ста девяноста девяти баллов по О эРТэ, то может учиться на любом факультете со скидкой в размере двадцать пять процентов."
+        q: "What discount can I get if I get 175 points in About eRTe?",
+        a: "If an applicant scored from one hundred and seventy-five to one hundred and ninety-nine points in O eRT, then he can study at any faculty with a twenty-five percent discount."
     },
     {
-        q: "Какую скидку я могу получить если набрал 200 баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от двести  до двести девяти баллов по О эРТэ, то может учиться на любом факультете со скидкой в размере пятидесяти процентов."
+        q: "What kind of discount can I get if I get 200 points in About eRTe?",
+        a: "If an applicant scored from two hundred to two hundred and nine points in O eRT, then he can study at any faculty with a fifty percent discount."
     },
     {
-        q: "Какую скидку я могу получить если набрал 210 баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от двести десяти до двести восемнадцати баллов по О эРТэ, то может учиться на любом факультете со скидкой в размере семидесяти процентов."
+        q: "What discount can I get if I get 210 points in About eRTe?",
+        a: "If an applicant scored from two hundred and ten to two hundred and eighteen points in O eRT, then he can study at any faculty with a discount of seventy percent."
     },
     {
-        q: "Какую скидку я могу получить если набрал 219 баллов по О эРТэ?",
-        a: "Если абитуриент, набрал от двести девятнадцати до двести сорока девяти баллов по О эРТэ, то может учиться на любом факультете со сто процентной скидкой."
+        q: "What discount can I get if I get 219 points in About eRTe?",
+        a: "If an applicant scored from two hundred nineteen to two hundred and forty nine points in O eRT, then he can study at any faculty with a hundred percent discount."
     },
     {
-        q: "Предоставляется ли скидка занявшим првое место на Международной олимпиаде по физике?",
-        a: "Абитуриенты, занявшие первое, второе или третье места на Международной олимпиаде по физике, могут получить стопроцентную скидку на обучение."
+        q: "Is there a discount for the winners of the International Physics Olympiad?",
+        a: "Applicants who take first, second or third place in the International Physics Olympiad can receive a 100% discount on tuition."
     },
     {
-        q: "Предоставляется ли скидка занявшим первое место на Международной олимпиаде по химии?",
-        a: "Абитуриенты, занявшие первое, второе или третье места на Международной олимпиаде по химии, могут получить стопроцентную скидку на обучение."
+        q: "Is there a discount for the winners of the International Chemistry Olympiad?",
+        a: "Applicants who take first, second or third place at the International Chemistry Olympiad can receive a 100% discount on tuition."
     },
     {
-        q: "Предоставляется ли скидка занявшим первое место на Международной олимпиаде по математике?",
-        a: "Абитуриенты, занявшие первое, второе или третье места на Международной олимпиаде по математике, могут получить стопроцентную скидку на обучение."
+        q: "Is there a discount for the first place winners at the International Mathematics Olympiad?",
+        a: "Applicants who take first, second or third place at the International Mathematics Olympiad can receive a 100% discount on tuition."
     },
     {
-        q: "Предоставляется ли скидка занявшим 1 место на Международной олимпиаде по биологии?",
-        a: "Абитуриенты, занявшие первое, второе или третье места на Международной олимпиаде по биологии, могут получить стопроцентную скидку на обучение."
+        q: "Is there a discount for those who took 1st place at the International Biology Olympiad?",
+        a: "Applicants who take first, second or third place at the International Biology Olympiad can receive a 100% discount on tuition."
     },
     {
-        q: "Предоставляется ли скидка занявшим первое место на Международной олимпиаде по информатике?",
-        a: "Абитуриенты, занявшие первое, второе или третье места на Международной олимпиаде по информатики, могут получить стопроцентную скидку на обучение."
+        q: "Is there a discount for the first place winners at the International Olympiad in Informatics?",
+        a: "Applicants who take first, second or third place in the International Olympiad in Informatics can receive a 100% discount on tuition."
     },
     {
-        q: "Что будет со скидкой, которую я получил при поступлении, если я буду плохо учиться? ",
-        a: "Если студент в конце семестра имеет 4 академических задолженности, то скидка автоматически прекращает свое действие."
+        q: "What will happen to the discount I received upon admission if I do not study well?",
+        a: "If a student has 4 academic debts at the end of the semester, the discount will automatically expire."
     },
     {
-        q: "Сколько стоит бакалавриат Информатика и вычислительная техника? ",
-        a: "Стоимость обучения в бакалавриате Информатика и вычислительная техника составляет 2500 долларов в год."
+        q: "How much does a bachelor's degree in Computer Science and Engineering cost?",
+        a: "The tuition fee for undergraduate Computer Science and Engineering is $2,500 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Прикладная математика и информатика? ",
-        a: "Стоимость обучения в бакалавриате на программе Прикладная математика и информатика составляет 1500 долларов в год."
+        q: "How much does a bachelor's degree in Applied Mathematics and Computer Science cost?",
+        a: "The undergraduate tuition for Applied Mathematics and Computer Science is $1,500 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Экономика? ",
-        a: "Стоимость обучения в бакалавриате на программе Экономика составляет 1980 долларов в год."
+        q: "How much does a bachelor's degree in Economics cost?",
+        a: "The tuition fee for an undergraduate program in Economics is $1,980 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Международные отношения? ",
-        a: "Стоимость обучения в бакалавриате на программе Международные отношения составляет 1980 долларов в год."
+        q: "How much does a bachelor's degree in International Relations cost?",
+        a: "The tuition fee for an undergraduate program in International Relations is $1,980 per year."
     },
     {
-        q: "Сколько стоит бакалавриат  Юриспруденция? ",
-        a: "Стоимость обучения на программе Юриспруденция составляет 1700 долларов в год."
+        q: "How much does a bachelor's degree in Jurisprudence cost ?",
+        a: "Tuition for the Law Program is $1,700 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Менеджмент? ",
-        a: "Стоимость обучения в бакалавриате на программе Менеджмент составляет 2080 долларов в год."
+        q: "How much does an undergraduate degree in Management cost?",
+        a: "The undergraduate tuition for the Management program is $2,080 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Филология?",
-        a: "Стоимость обучения в бакалавриате на программе Филология составляет 1550 долларов в год."
+        q: "How much does a bachelor's degree in Philology cost?",
+        a: "The undergraduate tuition for the Philology program is $1,550 per year."
     },
     {
-        q: "Сколько стоит бакалавриат обучения  Лингвистика?",
-        a: "Стоимость обучения в бакалавриате на программе Лингвистика составляет 1550 долларов в год."
+        q: "How much does a Bachelor's degree in Linguistics cost ?",
+        a: "The undergraduate tuition for the Linguistics program is $1,550 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Психология?",
-        a: "Стоимость обучения в бакалавриате на программе Психология составляет 1700 долларов в год."
+        q: "How much does a bachelor's degree in Psychology cost?",
+        a: "The tuition fee for an undergraduate degree in Psychology is $1,700 per year."
     },
     {
-        q: "Сколько стоит бакалавриат Журналистика?",
-        a: "Стоимость обучения в бакалавриате на программе Журналистика составляет 1480 долларов в год."
+        q: "How much does a Bachelor's degree in Journalism cost?",
+        a: "The tuition fee for the undergraduate journalism program is $1,480 per year."
     },
     {
-        q: "Сколько стоит Лечебное дело?       ",
-        a: "Стоимость обучения на программе Лечебное дело составляет 3300 долларов в год."
+        q: "How much does Medicine cost?",
+        a: "Tuition for the General Medicine program is $3,300 per year."
     },
     {
-        q: "Сколько стоит Педиатрия?       ",
-        a: "Стоимость обучения на программе Педиатрия составляет 3300 долларов в год."
+        q: "How much does Pediatrics cost?",
+        a: "Tuition for the Pediatrics program is $3,300 per year."
     },
     {
-        q: "Сколько стоит подготовительный курс?",
-        a: "Стоимость обучения на подготовительном курсе составляет 1980 долларов для граждан Кыргызстана."
+        q: "How much does the preparation course cost?",
+        a: "Tuition for the preparatory course is $1980 for citizens of Kyrgyzstan."
     },
     {
-        q: "Сколько стоит магистратуре Педагогика?       ",
-        a: "Стоимость обучения в магистратуре на программе Педагогика составляет 1200 долларов в год."
+        q: "How much does a Master's program in Pedagogy cost?",
+        a: "The tuition fee for the Master's program in Pedagogy is $1,200 per year."
     },
     {
-        q: "Сколько стоит магистратура Международное отношение?",
-        a: "Стоимость обучения в магистратуре на программе Международные отношения составляет 1200 долларов в год."
+        q: "How much does a master's degree in International Relations cost?",
+        a: "The tuition fee for a Master's program in International Relations is $1,200 per year."
     },
     {
-        q: "Сколько стоит магистратура Экономика?",
-        a: "Стоимость обучения в магистратуре на программе Экономика составляет 1200 долларов в год."
+        q: "How much does a master's degree in Economics cost?",
+        a: "The tuition fee for a master's program in Economics is $1,200 per year."
     },
     {
-        q: "Сколько стоит магистратура Менеджмент",
-        a: "Стоимость обучения в магистратуре на программе Менеджмент составляет 1200 долларов в год."
+        q: "How much does a Master's degree in Management cost",
+        a: "The tuition fee for the Master's program in Management is $1,200 per year."
     },
     {
-        q: "Сколько стоит магистратура Лингвистика?",
-        a: "Стоимость обучения в магистратуре на программе Лингвистика составляет 1200 долларов в год."
+        q: "How much does a master's degree in Linguistics cost?",
+        a: "The tuition fee for a master's program in Linguistics is $1,200 per year."
     },
     {
-        q: "Сколько стоит магистратура  Информатика и вычислительная Техника?",
-        a: "Стоимость обучения в магистратуре на программе Информатика и вычислительная Техника составляет 3000 долларов в год."
+        q: "How much does a master's degree in Informatics and Computer Engineering cost?",
+        a: "The tuition fee for a Master's program in Computer Science and Engineering is $3,000 per year."
     },
     {
-        q: "Сколько стоит подготовительный курс?",
-        a: "Стоимость обучения на подготовительном курсе составляет 1950 долларов для граждан Кыргызстана."
+        q: "How much does the preparation course cost?",
+        a: "Tuition for the foundation course is $1,950 for citizens of Kyrgyzstan."
     },
     {
-        q: "Сколько стоит колледже Экономика и бухгалтерский учет?",
-        a: "Стоимость обучения в колледже на программе Экономика и бухгалтерский учет составляет 1500 долларов в год."
+        q: "How much does the College of Economics and Accounting cost?",
+        a: "College tuition for the Economics and Accounting program is $1,500 per year."
     },
     {
-        q: "Сколько стоит колледже Маркетинг?",
-        a: "Стоимость обучения в колледже на программе Маркетинг составляет 1500 долларов в год."
+        q: "How much does college marketing cost?",
+        a: "College tuition for the Marketing program is $1,500 per year."
     },
     {
-        q: "Сколько стоит колледже Компьютерные системы и комплексы?",
-        a: "Стоимость обучения в колледже Компьютерные системы и комплексы составляет 1500 долларов в год."
+        q: "How much does the College of Computer Systems and Complexes cost?",
+        a: "Computer systems and systems college tuition is $1,500 per year."
     },
     {
-        q: "Сколько стоит колледже Программное обеспечение вычислительной техники и автоматизированных систем?",
-        a: "Стоимость обучения в колледже на программе  Программное обеспечение вычислительной техники и автоматизированных систем составляет 1500 долларов в год."
+        q: "How much does a college Computer Science and Automation Systems Software cost?",
+        a: "College tuition for the Computer Science and Automation Software Program is $1,500 per year."
     },
     {
-        q: "Сколько стоит Дизайн?",
-        a: "Стоимость обучения в колледже на программе Дизайн составляет 1700 долларов в год."
+        q: "How much does a Design cost?",
+        a: "College tuition for the Design program is $1,700 per year."
     },
     {
-        q: "Как поступить в колледж Международного университета Ала-Тоо?",
-        a: "Для поступления необходимо успешно сдать вступительный экзамен. Результат должен составлять 60 процентов от общего."
+        q: "How to enter the college of Ala-Too International University?",
+        a: "For admission, you must successfully pass the entrance exam. The result must be 60 percent of the total."
     },
     {
-        q: "По каким предметам сдают вступительный экзамен колледжа?",
-        a: "Нужно сдать математику и английский язык."
+        q: "What are the subjects for the college entrance exam?",
+        a: "Need to pass math and English."
     },
     {
-        q: "Вступительный экзамен колледжа будет в онлайн или офлайн формате? ",
-        a: "Экзамен будет проходить в онлайн формате. "
+        q: "Will the college entrance exam be online or offline?",
+        a: "The exam will be held online."
     },
     {
-        q: "Что будет на вступительном экзамене колледжа? ",
-        a: "Экзамен состоит из двух частей 50 вопросов по английскому языку. 25 вопросов по математике."
+        q: "What will happen on the college entrance exam?",
+        a: "The exam consists of two parts. 50 questions in English. 25 questions in mathematics."
     },
     {
-        q: "Каков срок обучения в колледже на базе девятого класса?",
-        a: "На базе девятого класса срок обучения 2 года 10 месяцев."
+        q: "What is the duration of ninth grade college education?",
+        a: "On the basis of the ninth grade, the term of study is 2 years 10 months."
     },
     {
-        q: "Каков срок обучения в колледже на базе 11 класса?",
-        a: "На базе одиннадцатого класса срок обучения 1 год 10 месяцев."
+        q: "What is the term of college education on the basis of 11th grade?",
+        a: "On the basis of the eleventh grade, the term of study is 1 year 10 months."
     },
     {
-        q: "Какие документы нужно сдавать при поступлении в колледж?",
-        a: "паспорт или свидетельство о рождении. документ об основном общем и среднем общем образовании."
+        q: "What documents do I need to submit when applying to college?",
+        a: "passport or birth certificate. document of basic general and secondary general education."
     },
     {
-        q: "На каком курсе студенты колледжа проходят практику?",
-        a: "Студенты а второго и третьего курсов проходят практику учебно ознакомительную. производственную и квалификационную, а также пишут две курсовые работы."
+        q: "In which course do college students practice?",
+        a: " Students of the second and third years pass an internship, educational, industrial and qualifying, and also write two term papers."
     },
     {
-        q: "На каком языке ведётся обучение в колледже?",
-        a: "Обучение в колледже идёт на английском языке."
+        q: "What language is taught in the college?",
+        a: "College is taught in English."
     },
     {
-        q: "Какой диплом получает выпускник колледжа?",
-        a: "После успешной сдачи теоретических дисциплин и государственных экзаменов выдается диплом о среднем профессиональном образовании Государственного образца."
+        q: "What degree does a college graduate get?",
+        a: "After successfully passing theoretical disciplines and state exams, a diploma of secondary vocational education of the State standard is issued."
     },
     {
-        q: "Может ли выпускник колледжа поступить в университет?",
-        a: "Выпускник колледжа с полученным дипломом по своему направлению может поступить на второй курс программы бакалавриата за исключением медицинского факультета."
+        q: "Can a college graduate go to university?",
+        a: "A graduate of a college with a diploma in their field of study may enter the second year of an undergraduate program with the exception of the medical school."
     },
     {
-        q: "Расскажите про специальность Компьютерные системы и комплексы?",
-        a: "Техник по компьютерным системам выполняет разработку и производство программно-аппаратных комплексов, эксплуатирует и проводит техническое обслуживание компьютерных систем."
+        q: "Tell me about the specialty Computer systems and complexes?",
+        a: "A computer systems technician designs and manufactures software and hardware systems, operates and maintains computer systems."
     },
     {
-        q: "Расскажите про специальность Экономика и бухгалтерский учёт?",
-        a: "Цель программы подготовить высококвалифицированных специалистов, обладающих глубокими знаниями в области бухгалтерского учета, анализа и аудита предприятий."
+        q: "Tell me about the specialty Economics and accounting?",
+        a: "The goal of the program is to train highly qualified specialists with deep knowledge in the field of accounting, analysis and audit of enterprises."
     },
     {
-        q: "Расскажите про специальность Маркетинг?",
-        a: "Задача студентов за время обучения освоить навыки сбыта и продвижения товаров и услуг от производителей к потребителям."
+        q: "Tell me about the specialty Marketing?",
+        a: "The task of students during the training is to master the skills of marketing and promoting goods and services from producers to consumers."
     },
     {
-        q: "Расскажите про специальность Дизайн?",
-        a: "Выпускник данной специальности должен быть готов к профессиональной разработке дизайнерских проектов, художественным проектированием и оформлением дизайн-продукта."
+        q: "Tell us about the specialty Design?",
+        a: "A graduate of this specialty should be ready for professional development of design projects, artistic design and design product design."
     },
     {
-        q: "Расскажите про специальность Программное обеспечение вычислительной техники и автоматизированных систем?",
-        a: "Выпускники данной специальности должны уметь осуществлять техническое обслуживание средств вычислительной техники и компьютерных сетей."
+        q: "Tell me about the specialty Software of computer technology and automated systems?",
+        a: "Graduates of this specialty should be able to carry out maintenance of computer equipment and computer networks."
     },
     {
-        q: "Куда нужно подойти, чтобы забрать готовый диплом?",
-        a: "Вам нужно будет подойти в А блок, кабинет 102."
+        q: "Where do you need to go to pick up the finished diploma?",
+        a: "You will need to go to Block A, room 102."
     },
     {
-        q: "У вас есть специальность преподаватель начальных классов?",
-        a: "Нет, но зато есть филология английский язык и психология."
+        q: "Do you have a primary school teacher?",
+        a: "No, but there is English philology and psychology."
     },
     {
-        q: "Сколько у вас длиться обучение в университете?",
-        a: "Срок обучения в бакалавриате 4 года."
+        q: "How long do you study at the university?",
+        a: "Term of undergraduate studies is 4 years."
     },
     {
-        q: "До скольких работает бухгалтерия?",
-        a: "Бухгалтерия работает до пяти часов"
+        q: "How long does accounting work until?",
+        a: "Accounting is open until five o'clock"
     },
     {
-        q: "Как можно забрать документы из университета?",
-        a: "Поэтому вопросу лучше обратиться в студенческий отдел. А блок, кабинет 102."
+        q: "How can I pick up documents from the university?",
+        a: "Therefore, it's best to contact the student department. Block, room 102."
     },
     {
-        q: "Где находится университет Ала Тоо?",
-        a: "Международный университет Ала Тоо находится . Бишкеке на улице Анкара 1/8 _."
+        q: "Where is Ala Too University?",
+        a: "Ala Too International University is located in Bishkek at 1/8 Ankara Street _."
     },
     {
-        q: "У меня есть индивидуальное коммерческое предложение, с кем я могу переговорить по этому вопросу?",
-        a: "По коммерческим предложениям вы можете поговорить с директором центра Маркетинга, который находится в А Блоке, офис 107."
+        q: "I have an individual quotation, who can I talk to about this?",
+        a: "For commercial offers, you can speak with the director of the Marketing Center, located in A Block, office 107."
     },
     {
-        q: "Предоставляет университет какие-нибудь скидки, если у меня обычный аттестат, но все пятерки?",
-        a: "Университет Ала-Тоо предоставляет двадцатипроцентную скидку, только если студент имеет красный аттестат."
+        q: "Does the university offer any discounts if I have a regular high school diploma but all A's?",
+        a: "Ala-Too University provides a twenty percent discount only if the student has a red certificate."
     },
     {
-        q: "Нужно ли иметь абитуриенту справку 0 86 при поступлении в университет?",
-        a: "Университет Ала-Тоо не требует справку 0 86 при поступлении."
+        q: "Does an applicant need to have a certificate 0 86 when entering a university?",
+        a: "Ala-Too University does not require a 0 86 certificate for admission."
     },
     {
-        q: "Какие документы нужны при поступлении в университет?",
-        a: "Сертификат О эРТэ, оригинал аттестата, фотография 3 на 3 количество 6 штук. Копия паспорта, а если юноша поступает, то в таком случае военный билет обязательно требуется."
+        q: "What documents are needed when entering the university?",
+        a: "Certificate of ERTE, original certificate, photo 3 x 3, number 6 pieces. Copy of passport, and if the young man enters, then in this case a military ID is required."
     },
     {
-        q: "Если в университете вступительные экзамены?",
-        a: "В университете Ала-Тоо нет вступительных экзаменов."
+        q: "If the university has entrance exams?",
+        a: "There are no entrance exams at Ala-Too University."
     },
     {
-        q: "Сколько баллов минимум нужно набрать по О эРТэ, чтобы получить скидку?",
-        a: "Минимум нужно набрать сто сорок баллов по О эРТэ, чтобы получить пятипроцентную скидку."
+        q: "How many points do you need to score at least on O eRTe to get a discount?",
+        a: "A minimum of one hundred and forty points in O eRTe is required to receive a five percent discount."
     },
     {
-        q: "Сколько процентов нужно оплатить при поступлении в университет?",
-        a: "При поступлении в Университет Ала-Тоо необходимо оплатить 30 процентов."
+        q: "How much interest must be paid when entering the university?",
+        a: "Admission to Ala-Too University requires payment of 30 percent."
     },
     {
-        q: "Куда мне нужно подойти, что мне открыли систему пымыэс?",
-        a: "Вам необходимо подойти в IT центр, который находится в А блоке, третий этаж, кабинет 209."
+        q: "Where do I need to go so that they open the pymyes system to me?",
+        a: "You need to go to the IT center, which is located in Block A, third floor, room 209."
     },
     {
-        q: "Где я могу получить копию аттестата о среднем образовании?",
-        a: "Копию аттестата о среднем образовании вы можете получить в студенческом отделе, кабинет 102."
+        q: "Where can I get a copy of my high school diploma?",
+        a: "A copy of your high school diploma can be obtained from the student department, room 102."
     },
     {
-        q: "Какой номер телефона студенческого отдела?",
-        a: "Номер телефона студенческого отдела 63 14 25"
+        q: "What is the phone number of the student department?",
+        a: "Student phone number 63 14 25"
     },
     {
-        q: "Куда мне нужно подойти по поводу академического отпуска?",
-        a: "Справку на академический отпуск выдает студенческий отдел, который находится в А блоке, первый этаж, кабинет 102."
+        q: "Where should I go for sabbatical leave?",
+        a: "A certificate for academic leave is issued by the student department, which is located in Block A, first floor, room 102."
     },
     {
-        q: "Кокой номер телефона бухгалтерии?",
-        a: "Номер телефона бухгалтерии 0 508 139 101"
+        q: "What is the telephone number of the accounting department?",
+        a: "Accounting phone number 0 508 139 101"
     },
     {
-        q: "Можно ли перевестись в ваш университет?",
-        a: "Студенты могут перевестись с другого университета в университет Ала-Тоо, но за исключением студентов, которые учатся на первом и последнем курсе."
+        q: "Is it possible to transfer to your university?",
+        a: "Students can transfer from another university to Ala-Too University, but with the exception of students who are in their first and last year."
     },
     {
-        q: "Какой номер телефона приемной ректора?",
-        a: "Номер телефона приемной ректора 0 312 63 14 25"
+        q: "What is the phone number of the rector's office?",
+        a: "Telephone number of the rector's office 0 312 63 14 25"
     },
     {
-        q: "Какой номер телефона центра непрерывного образования?",
-        a: "Номер телефона центра непрерывного образования 0 702 229 136"
+        q: "What is the phone number of the continuing education center?",
+        a: "Phone number of the center of continuing education 0 702 229 136"
     },
     {
-        q: "Что делать, если я не набрал проходной балл по О эРТэ?",
-        a: "В этом случае вы можете поступить в колледж на второй курс на базе 11 класса, затем после окончания колледжа поступить без О эРТэ в наш университет."
+        q: "What should I do if I didn't get a passing score in O eRTe?",
+        a: "In this case, you can go to college for the second year on the basis of 11th grade, then after graduating from college, enter our university without O eRTe."
     },
     {
-        q: "Как можно с другого университета перевестись в Ала-Тоо?",
-        a: "Сперва необходимо предоставить академическую справку из вашего учебного заведения"
+        q: "How can I transfer from another university to Ala-Too?",
+        a: "First you need to provide an academic transcript from your institution"
     },
     {
-        q: "Что такое академическая справка?",
-        a: "Академическая справка это документ, который подтверждает факт обучения в учебном заведении и выдается, если студент по каким-либо причинам не смог закончить его."
+        q: "What is an academic reference?",
+        a: " Academic certificate is a document that confirms the fact of studying at an educational institution and is issued if the student for some reason could not complete it."
     },
     {
-        q: "Зачем нужна академическая справка?",
-        a: "Академическая справка при переводе в другой вуз нужна руководству, чтобы оценить пройденную программу учащегося и подобрать для него соответствующий курс обучения"
+        q: "Why do I need an academic certificate?",
+        a: "The academic certificate when transferring to another university is needed by the management in order to evaluate the student's program and select the appropriate course of study for him"
     },
     {
-        q: "Можно ли оплатить контракт за обучение через банк?",
-        a: "Да. конечно, реквизиты нашего университета указаны на последней странице вашего договора."
+        q: "Can I pay for the tuition contract through a bank?",
+        a: "Yes. Of course, the details of our university are listed on the last page of your contract."
     },
     {
-        q: "Сколько нужно набрать баллов, чтобы поступить на медицинский факультет?",
-        a: "Для поступления в медицинский факультет необходимо набрать 105 баллов по основному тэсту О эРТэ, а также по химии и биологии не ниже шестидесяти баллов."
+        q: "How many points do you need to score to enter the medical school?",
+        a: "To enter the Faculty of Medicine, you must score 105 points in the main test of O eRT, as well as at least sixty points in chemistry and biology."
     },
     {
-        q: "Могу ли я поступить на медицинский факультет, если набрал по химии и биологии ниже 60 баллов.",
-        a: "Если вы набрали по химии и биологии ниже шестидесяти баллов, то поступить в медицинский факультет не получится, но можно выбрать другие специальности в Ала-Тоо."
+        q: "Can I get into medical school if I score below 60 in chemistry and biology.",
+        a: "If you scored below sixty points in chemistry and biology, then you will not be able to enter the medical faculty, but you can choose other specialties in Ala-Too."
     },
     {
-        q: "Будет ли меняться стоимость контракта за 4 года обучения?",
-        a: "Нет, стоимость контракта от первоначальной суммы за 4 года обучения меняться не будет."
+        q: "Will the cost of the contract change for 4 years of study?",
+        a: "No, the cost of the contract from the initial amount for 4 years of study will not change."
     },
     {
-        q: "Сколько нужно набрать баллов, чтобы поступить на информатику и вычислительную технику?",
-        a: "Для поступления на информатику и вычислительную технику необходимо набрать 130 баллов по основному тэсту О эРТэ, а также по математике и физике не ниже шестидесяти баллов."
+        q: "How many points do you need to score to enroll in computer science and computer engineering?",
+        a: "For admission to computer science and computer engineering, you must score 130 points in the main test About eRTe, as well as at least sixty points in mathematics and physics."
     },
     {
-        q: "Могу ли я забрать оригинал аттестата?",
-        a: "Оригинал аттестата выдаётся лишь на 3 дня, и требуется оставить паспорт в качестве залога."
+        q: "Can I pick up the original certificate?",
+        a: "The original certificate is issued only for 3 days, and it is required to leave the passport as a deposit."
     },
     {
-        q: "Гуманитарные науки",
-        a: "Факультет состоит из четерёх направлений. Лингвистика, филология, психология и журналистика"
+        q: "Humanities",
+        a: "The faculty consists of four areas. Linguistics, Philology, Psychology and Journalism"
     },
     {
-        q: "Расскажи немного про медицинский факультет",
-        a: "Факультет состоит из двух направлений. Лечебное дело и Педиатрия"
+        q: "Tell me a little about the Faculty of Medicine",
+        a: "The faculty consists of two directions. General Medicine and Pediatrics"
     },
     {
-        q: "Расскажи про факультет Экономики и управления",
-        a: "Факультет состоит из пяти направлений. Международная экономика и бизнес, Финансы и кредит, Менеджмент и Юриспруденция"
+        q: "Tell me about the Faculty of Economics and Management",
+        a: "The faculty consists of five areas. International Economics and Business, Finance and Credit, Management and Jurisprudence"
     },
     {
-        q: "Инженерия и информатика",
-        a: "Факультет состоит из двух направлений. Информатика и вычислительная техника, прикладная математика и информатика"
+        q: "Engineering and computer science",
+        a: "The faculty consists of two areas. Informatics and Computer Science, Applied Mathematics and Computer Science"
     },
     {
-        q: "Консультация",
-        a: "Какой вопрос интересует касающеся университета?"
+        q: "Consultation",
+        a: "What question is of interest regarding the university?"
     },
 ]
 
-rustopwords = ["а","алло","без","белый","близко","более","больше","большой","будем","будет","будете","будешь","будто","буду","будут","будь","бы","бывает","бывь","был","была","были","было","быть","в","важная","важное","важные","важный","вам","вами","вас","ваш","ваша","ваше","ваши","вверх","вдали","вдруг","ведь","везде","вернуться","весь","вечер","взгляд","взять","вид","видеть","вместе","вниз","внизу","во","вода","война","вокруг","вон","вообще","вопрос","восемнадцатый","восемнадцать","восемь","восьмой","вот","впрочем","времени","время","все","всегда","всего","всем","всеми","всему","всех","всею","всю","всюду","вся","всё","второй","вы","выйти","г","где","главный","глаз","говорил","говорит","говорить","год","года","году","голова","голос","город","да","давать","давно","даже","далекий","далеко","дальше","даром","дать","два","двадцатый","двадцать","две","двенадцатый","двенадцать","дверь","двух","девятнадцатый","девятнадцать","девятый","девять","действительно","дел","делать","дело","день","десятый","десять","для","до","довольно","долго","должно","должный","дом","дорога","друг","другая","другие","других","друго","другое","другой","думать","душа","е","его","ее","ей","ему","если","есть","еще","ещё","ею","её","ж","ждать","же","жена","женщина","жизнь","жить","за","занят","занята","занято","заняты","затем","зато","зачем","здесь","земля","знать","значит","значить","и","идти","из","или","им","именно","иметь","ими","имя","иногда","их","к","каждая","каждое","каждые","каждый","кажется","казаться","как","какая","какой","кем","книга","когда","кого","ком","комната","кому","конец","конечно","которая","которого","которой","которые","который","которых","кроме","кругом","кто","куда","лежать","лет","ли","лицо","лишь","лучше","любить","люди","м","маленький","мало","мать","машина","между","меля","менее","меньше","меня","место","миллионов","мимо","минута","мир","мира","мне","много","многочисленная","многочисленное","многочисленные","многочисленный","мной","мною","мог","могут","мож","может","можно","можхо","мои","мой","мор","москва","мочь","моя","моё","мы","на","наверху","над","надо","назад","наиболее","найти","наконец","нам","нами","народ","нас","начала","начать","наш","наша","наше","наши","не","него","недавно","недалеко","нее","ней","некоторый","нельзя","нем","немного","нему","непрерывно","нередко","несколько","нет","нею","неё","ни","нибудь","ниже","низко","никакой","никогда","никто","никуда","ними","них","ничего","ничто","но","новый","нога","ночь","ну","нужно","нужный","нх","об","оба","обычно","один","одиннадцатый","одиннадцать","однажды","однако","одного","одной","оказаться","окно","около","он","она","они","оно","опять","особенно","остаться","от","ответить","отец","отовсюду","отсюда","очень","первый","перед","писать","плечо","по","под","подумать","пожалуйста","позже","пойти","пока","пол","получить","помнить","понимать","понять","пор","пора","после","последний","посмотреть","посреди","потом","потому","почему","почти","правда","прекрасно","при","про","просто","против","процентов","пятнадцатый","пятнадцать","пятый","пять","работа","работать","раз","разве","рано","раньше","ребенок","решить","россия","рука","русский","ряд","рядом","с","сам","сама","сами","самим","самими","самих","само","самого","самой","самом","самому","саму","самый","свет","свое","своего","своей","свои","своих","свой","свою","сделать","сеаой","себе","себя","сегодня","седьмой","сейчас","семнадцатый","семнадцать","семь","сидеть","сила","сих","сказал","сказала","сказать","сколько","слишком","слово","случай","смотреть","сначала","снова","со","собой","собою","советский","совсем","спасибо","спросить","сразу","стал","старый","стать","стол","сторона","стоять","страна","суть","считать","т","та","так","такая","также","таки","такие","такое","такой","там","твой","твоя","твоё","те","тебе","тебя","тем","теми","теперь","тех","то","тобой","тобою","товарищ","тогда","того","тоже","только","том","тому","тот","тою","третий","три","тринадцатый","тринадцать","ту","туда","тут","ты","тысяч","у","увидеть","уж","уже","улица","уметь","утро","хороший","хорошо","хотеть","хоть","хотя","хочешь","час","часто","часть","чаще","чего","человек","чем","чему","через","четвертый","четыре","четырнадцатый","четырнадцать","что","чтоб","чтобы","чуть","шестнадцатый","шестнадцать","шестой","шесть","эта","эти","этим","этими","этих","это","этого","этой","этом","этому","этот","эту","я"]
+
+rustopwords = ["'ll","'tis","'twas","'ve","10","39","a","a's","able","ableabout","about","above","abroad","abst","accordance","according","accordingly","across","act","actually","ad","added","adj","adopted","ae","af","affected","affecting","affects","after","afterwards","ag","again","against","ago","ah","ahead","ai","ain't","aint","al","all","allow","allows","almost","alone","along","alongside","already","also","although","always","am","amid","amidst","among","amongst","amoungst","amount","an","and","announce","another","any","anybody","anyhow","anymore","anyone","anything","anyway","anyways","anywhere","ao","apart","apparently","appear","appreciate","appropriate","approximately","aq","ar","are","area","areas","aren","aren't","arent","arise","around","arpa","as","aside","ask","asked","asking","asks","associated","at","au","auth","available","aw","away","awfully","az","b","ba","back","backed","backing","backs","backward","backwards","bb","bd","be","became","because","become","becomes","becoming","been","before","beforehand","began","begin","beginning","beginnings","begins","behind","being","beings","believe","below","beside","besides","best","better","between","beyond","bf","bg","bh","bi","big","bill","billion","biol","bj","bm","bn","bo","both","bottom","br","brief","briefly","bs","bt","but","buy","bv","bw","by","bz","c","c'mon","c's","ca","call","came","can","can't","cannot","cant","caption","case","cases","cause","causes","cc","cd","certain","certainly","cf","cg","ch","changes","ci","ck","cl","clear","clearly","click","cm","cmon","cn","co","co.","com","come","comes","computer","con","concerning","consequently","consider","considering","contain","containing","contains","copy","corresponding","could","could've","couldn","couldn't","couldnt","course","cr","cry","cs","cu","currently","cv","cx","cy","cz","d","dare","daren't","darent","date","de","dear","definitely","describe","described","despite","detail","did","didn","didn't","didnt","differ","different","differently","directly","dj","dk","dm","do","does","doesn","doesn't","doesnt","doing","don","don't","done","dont","doubtful","down","downed","downing","downs","downwards","due","during","dz","e","each","early","ec","ed","edu","ee","effect","eg","eh","eight","eighty","either","eleven","else","elsewhere","empty","end","ended","ending","ends","enough","entirely","er","es","especially","et","et-al","etc","even","evenly","ever","evermore","every","everybody","everyone","everything","everywhere","ex","exactly","example","except","f","face","faces","fact","facts","fairly","far","farther","felt","few","fewer","ff","fi","fifteen","fifth","fifty","fify","fill","find","finds","fire","first","five","fix","fj","fk","fm","fo","followed","following","follows","for","forever","former","formerly","forth","forty","forward","found","four","fr","free","from","front","full","fully","further","furthered","furthering","furthermore","furthers","fx","g","ga","gave","gb","gd","ge","general","generally","get","gets","getting","gf","gg","gh","gi","give","given","gives","giving","gl","gm","gmt","gn","go","goes","going","gone","good","goods","got","gotten","gov","gp","gq","gr","great","greater","greatest","greetings","group","grouped","grouping","groups","gs","gt","gu","gw","gy","h","had","hadn't","hadnt","half","happens","hardly","has","hasn","hasn't","hasnt","have","haven","haven't","havent","having","he","he'd","he'll","he's","hed","hell","hello","help","hence","her","here","here's","hereafter","hereby","herein","heres","hereupon","hers","herself","herse”","hes","hi","hid","high","higher","highest","him","himself","himse”","his","hither","hk","hm","hn","home","homepage","hopefully","how","how'd","how'll","how's","howbeit","however","hr","ht","htm","html","http","hu","hundred","i","i'd","i'll","i'm","i've","i.e.","id","ie","if","ignored","ii","il","ill","im","immediate","immediately","importance","important","in","inasmuch","inc","inc.","indeed","index","indicate","indicated","indicates","information","inner","inside","insofar","instead","int","interest","interested","interesting","interests","into","invention","inward","io","iq","ir","is","isn","isn't","isnt","it","it'd","it'll","it's","itd","itll","its","itself","itse”","ive","j","je","jm","jo","join","jp","just","k","ke","keep","keeps","kept","keys","kg","kh","ki","kind","km","kn","knew","know","known","knows","kp","kr","kw","ky","kz","l","la","large","largely","last","lately","later","latest","latter","latterly","lb","lc","least","length","less","lest","let","let's","lets","li","like","liked","likely","likewise","line","little","lk","ll","long","longer","longest","look","looking","looks","low","lower","lr","ls","lt","ltd","lu","lv","ly","m","ma","made","mainly","make","makes","making","man","many","may","maybe","mayn't","maynt","mc","md","me","mean","means","meantime","meanwhile","member","members","men","merely","mg","mh","microsoft","might","might've","mightn't","mightnt","mil","mill","million","mine","minus","miss","mk","ml","mm","mn","mo","more","moreover","most","mostly","move","mp","mq","mr","mrs","ms","msie","mt","mu","much","mug","must","must've","mustn't","mustnt","mv","mw","mx","my","myself","myse”","mz","n","na","name","namely","nay","nc","nd","ne","near","nearly","necessarily","necessary","need","needed","needing","needn't","neednt","needs","neither","net","netscape","never","neverf","neverless","nevertheless","new","newer","newest","next","nf","ng","ni","nine","ninety","nl","no","no-one","nobody","non","none","nonetheless","noone","nor","normally","nos","not","noted","nothing","notwithstanding","novel","now","nowhere","np","nr","nu","null","number","numbers","nz","o","obtain","obtained","obviously","of","off","often","oh","ok","okay","old","older","oldest","om","omitted","on","once","one","one's","ones","only","onto","open","opened","opening","opens","opposite","or","ord","order","ordered","ordering","orders","org","other","others","otherwise","ought","oughtn't","oughtnt","our","ours","ourselves","out","outside","over","overall","owing","own","p","pa","page","pages","part","parted","particular","particularly","parting","parts","past","pe","per","perhaps","pf","pg","ph","pk","pl","place","placed","places","please","plus","pm","pmid","pn","point","pointed","pointing","points","poorly","possible","possibly","potentially","pp","pr","predominantly","present","presented","presenting","presents","presumably","previously","primarily","probably","problem","problems","promptly","proud","provided","provides","pt","put","puts","pw","py","q","qa","que","quickly","quite","qv","r","ran","rather","rd","re","readily","really","reasonably","recent","recently","ref","refs","regarding","regardless","regards","related","relatively","research","reserved","respectively","resulted","resulting","results","right","ring","ro","room","rooms","round","ru","run","rw","s","sa","said","same","saw","say","saying","says","sb","sc","sd","se","sec","second","secondly","seconds","section","see","seeing","seem","seemed","seeming","seems","seen","sees","self","selves","sensible","sent","serious","seriously","seven","seventy","several","sg","sh","shall","shan't","shant","she","she'd","she'll","she's","shed","shell","shes","should","should've","shouldn","shouldn't","shouldnt","show","showed","showing","shown","showns","shows","si","side","sides","significant","significantly","similar","similarly","since","sincere","site","six","sixty","sj","sk","sl","slightly","sm","small","smaller","smallest","sn","so","some","somebody","someday","somehow","someone","somethan","something","sometime","sometimes","somewhat","somewhere","soon","sorry","specifically","specified","specify","specifying","sr","st","state","states","still","stop","strongly","su","sub","substantially","successfully","such","sufficiently","suggest","sup","sure","sv","sy","system","sz","t","t's","take","taken","taking","tc","td","tell","ten","tends","test","text","tf","tg","th","than","thank","thanks","thanx","that","that'll","that's","that've","thatll","thats","thatve","the","their","theirs","them","themselves","then","thence","there","there'd","there'll","there're","there's","there've","thereafter","thereby","thered","therefore","therein","therell","thereof","therere","theres","thereto","thereupon","thereve","these","they","they'd","they'll","they're","they've","theyd","theyll","theyre","theyve","thick","thin","thing","things","think","thinks","third","thirty","this","thorough","thoroughly","those","thou","though","thoughh","thought","thoughts","thousand","three","throug","through","throughout","thru","thus","til","till","tip","tis","tj","tk","tm","tn","to","today","together","too","took","top","toward","towards","tp","tr","tried","tries","trillion","truly","try","trying","ts","tt","turn","turned","turning","turns","tv","tw","twas","twelve","twenty","twice","two","tz","u","ua","ug","uk","um","un","under","underneath","undoing","unfortunately","unless","unlike","unlikely","until","unto","up","upon","ups","upwards","us","use","used","useful","usefully","usefulness","uses","using","usually","uucp","uy","uz","v","va","value","various","vc","ve","versus","very","vg","vi","via","viz","vn","vol","vols","vs","vu","w","want","wanted","wanting","wants","was","wasn","wasn't","wasnt","way","ways","we","we'd","we'll","we're","we've","web","webpage","website","wed","welcome","well","wells","went","were","weren","weren't","werent","weve","wf","what","what'd","what'll","what's","what've","whatever","whatll","whats","whatve","when","when'd","when'll","when's","whence","whenever","where","where'd","where'll","where's","whereafter","whereas","whereby","wherein","wheres","whereupon","wherever","whether","which","whichever","while","whilst","whim","whither","who","who'd","who'll","who's","whod","whoever","whole","wholl","whom","whomever","whos","whose","why","why'd","why'll","why's","widely","width","will","willing","wish","with","within","without","won","won't","wonder","wont","words","work","worked","working","works","world","would","would've","wouldn","wouldn't","wouldnt","ws","www","x","y","ye","year","years","yes","yet","you","you'd","you'll","you're","you've","youd","youll","young","younger","youngest","your","youre","yours","yourself","yourselves","youve","yt","yu","z","za","zero","zm","zr"]
 
 substitution = {
     'кешью': 'кэш тую'

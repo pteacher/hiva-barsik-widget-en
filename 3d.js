@@ -83,9 +83,9 @@ function substituteWords(sentence, dictionary) {
     const words = sentence.split(" ");
     const modifiedWords = [];
 
-    for (let i = 0; i < words.length; i++) {
-        words[i] = transliterate(words[i]);
-    }
+    // for (let i = 0; i < words.length; i++) {
+    //     words[i] = transliterate(words[i]);
+    // }
 
     for (let word of words) {
         let minDistance = 5;
@@ -221,43 +221,8 @@ const roughnessMipmapper = new RoughnessMipmapper(renderer);
 const camera = new THREE.PerspectiveCamera(70, windowWidth / windowHeight, 1, 10000);
 camera.position.z = 5;
 
-// const controls = new OrbitControls(camera, renderer.domElement);
-// controls.update();
-
-const hemiLight = new THREE.HemisphereLight( 0xffffff, 0xffffff, 2 );
-hemiLight.color.setHSL( 0.6, 1, 0.6 );
-hemiLight.groundColor.setHSL( 0.095, 1, 0.75 );
-hemiLight.position.set( 0, 50, 0 );
-scene.add( hemiLight );
-
-const hemiLightHelper = new THREE.HemisphereLightHelper( hemiLight, 10 );
-scene.add( hemiLightHelper );
-
-//
-
-const dirLight = new THREE.DirectionalLight( 0xffffff, 0.6 );
-dirLight.color.setHSL( 0.1, 1, 0.95 );
-dirLight.position.set( 2, 3, 50 );
-dirLight.position.multiplyScalar( 0.5 );
-scene.add( dirLight );
-
-dirLight.castShadow = true;
-
-dirLight.shadow.mapSize.width = 2048;
-dirLight.shadow.mapSize.height = 2048;
-
-const d = 50;
-
-dirLight.shadow.camera.left = - d;
-dirLight.shadow.camera.right = d;
-dirLight.shadow.camera.top = d;
-dirLight.shadow.camera.bottom = - d;
-
-dirLight.shadow.camera.far = 3500;
-dirLight.shadow.bias = - 0.0001;
-
-const dirLightHelper = new THREE.DirectionalLightHelper( dirLight, 10 );
-scene.add( dirLightHelper );
+const ambientLight = new THREE.AmbientLight( 0xffffff, 1.5); // soft white light
+scene.add( ambientLight );
 
 const loader = new GLTFLoader();
 loader.load('./public/model.glb', function (gltf) {
@@ -409,7 +374,7 @@ const grammar = "#JSGF V1.0; grammar cash2u; public <cash2u> = кэш тую | �
 speechRecognitionList.addFromString(grammar, 1);
 recognition.grammars = speechRecognitionList;
 //recognition.continuous = false;
-recognition.lang = 'ru-RU';
+recognition.lang = 'en-EN';
 recognition.interimResults = false;
 recognition.maxAlternatives = 1;
 // Формат “грамматики“ используемой нами - это JSpeech Grammar Format (JSGF) - по ссылке можете почитать про это больше.
