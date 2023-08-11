@@ -48,8 +48,9 @@ function intersection(s1, s2) {
     s2 = removeStopwords(s2);
     let a = new Set(s1.toLowerCase().split(' '));
     let b = new Set(s2.toLowerCase().replace(/[.,\/#!?$%\^&\*;:{}=\-_`~()]/g,"").split(' '))
-    let intersect = new Set([...a].filter(i => b.has(i)));
-    return intersect.size / b.size;
+    let intersectA = new Set([...a].filter(i => b.has(i)));
+    let intersectB = new Set([...b].filter(i => a.has(i)));
+    return intersectA.size / a.size + intersectB.size / b.size;
 }
 
 function levenshteinDistance(word1, word2) {
