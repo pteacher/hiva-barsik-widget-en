@@ -429,6 +429,13 @@ function onWindowResize() {
 window.sayHello = function() {
     const audio = new Audio("./public/voice/hello.wav");
     audio.play().then();
+    speaking = true;
+    actions["Mouth loop"].setEffectiveWeight(1);
+    audio.onended = function () {
+        actions["Mouth loop"].setEffectiveWeight(0);
+        speaking = false;
+        recognition.start();
+    };
 }
 
 const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
