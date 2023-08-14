@@ -41,7 +41,7 @@ qa = [
     },
     {
         q: "Is it possible to get distance education at your university?",
-        a: "Our distance learning center provides full education for bachelor's and master's students"
+        a: "Our distance learning center provides full education for bachelor's and master's students "
     },
     {
         q: "Are there student exchange programs?",
@@ -80,28 +80,28 @@ qa = [
         a: "Graduates of the eleventh grade who have successfully graduated from school with a certificate with honors can receive a twenty percent discount on tuition at any faculty of the university."
     },
     {
-        q: "What discount can I get if I scored one hundred and forty points in the National Level University Entrance Exam? ",
-        a: "Students who receive 140 to 155 points in the National Level University Entrance Exam? can study at any department with a 5% discount."
+        q: "What discount can I get if I scored one hundred and forty points in the National Level University Entrance Exam?",
+        a: "Students who receive 140 to 155 points in the National Level University Entrance Exam? can study at any department with a 5 percent discount."
     },
     {
         q: "What discount can I get if I scored 156 points in the National Level University Entrance Exam?",
-        a: "Students who receive 156 to 174 on ORT can study at any department with a 10% discount"
+        a: "Students who receive 156 to 174 on ORT can study at any department with a 10 percent discount"
     },
     {
         q: "What discount can I get if I scored 175 points in the National Level University Entrance Exam?",
-        a: "Students who receive 175 to 199 points in the National Level University Entrance Exam? can study at any department with 25% discount."
+        a: "Students who receive 175 to 199 points in the National Level University Entrance Exam? can study at any department with 25 percent discount."
     },
     {
         q: "What discount can I get if I scored 200 points in the National Level University Entrance Exam?",
-        a: "Students who receive 200 to 209 points in the National Level University Entrance Exam? can study at any department with 50% discount."
+        a: "Students who receive 200 to 209 points in the National Level University Entrance Exam? can study at any department with 50 percent discount."
     },
     {
         q: "What discount can I get if I scored 210 points in the National Level University Entrance Exam?",
-        a: "Students who receive 210 to 218 points in the National Level University Entrance Exam? can study at any department with a 75% discount."
+        a: "Students who receive 210 to 218 points in the National Level University Entrance Exam? can study at any department with a 75 percent discount."
     },
     {
         q: "What discount can I get if I scored 219 points in the National Level University Entrance Exam?",
-        a: "Students who receive 219 to 240 points in the National Level University Entrance Exam? can study with 100% discount at any department"
+        a: "Students who receive 219 to 240 points in the National Level University Entrance Exam? can study with 100 percent discount at any department"
     },
     {
         q: "Is there a discount for those who took 1st place at the International Physics Olympiad?",
@@ -129,99 +129,99 @@ qa = [
     },
     {
         q: "What is the cost of bachelor's degree in the program Computer Science and Computer Engineering?",
-        a: "The cost of bachelor's degree in the program Computer Science and Computer Engineering is $ 2,500 per year."
+        a: "The cost of bachelor's degree in the program Computer Science and Computer Engineering is in dollars 2,500 per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Applied Mathematics and Computer Science?",
-        a: "The cost of bachelor's degree in the program Applied Mathematics and Computer Science is $ 1,500 per year."
+        a: "The cost of bachelor's degree in the program Applied Mathematics and Computer Science is in dollars 1,500 per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Economics?",
-        a: "The cost of bachelor's degree in the program Economics is $ 1980 per year."
+        a: "The cost of bachelor's degree in the program Economics is in dollars 1980 per year."
     },
     {
         q: "What is the cost of a bachelor's degree in the program International Relations?",
-        a: "The cost of bachelor's degree in the program International Relations is $ 1980 per year."
+        a: "The cost of bachelor's degree in the program International Relations is in dollars 1980 per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program International Law?",
-        a: "The cost of bachelor's degree in the program International Law is $ 1,700 per year."
+        a: "The cost of bachelor's degree in the program International Law is in dollars 1,700 per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Management?",
-        a: "The cost of bachelor's degree in the Management program is $2,080 per year."
+        a: "The cost of bachelor's degree in the Management program is in dollars 2,080 per year."
     },
     {
-        q: "What is the cost of bachelor's degree in the program  Philology?",
-        a: "The cost of bachelor's degree in the program Management is $ 1,550 per year."
+        q: "What is the cost of bachelor's degree in the program Philology?",
+        a: "The cost of bachelor's degree in the program Management is in dollars 1,550 per year."
     },
     {
         q: "What is the cost of undergraduate studies in the Linguistics program?",
-        a: "The cost of undergraduate studies in the Linguistics program is $ 1,550 per year."
+        a: "The cost of undergraduate studies in the Linguistics program is in dollars 1,550 per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Psychology?",
-        a: "The cost of bachelor's degree in the program Psychology is $ 1,700 per year."
+        a: "The cost of bachelor's degree in the program Psychology is in dollars 1,700 per year."
     },
     {
         q: "What is the cost of a bachelor's degree in the Journalism program?",
-        a: "The cost of a bachelor's degree in the program Journalism is $1,480 a year."
+        a: "The cost of a bachelor's degree in the program Journalism is in dollars 1,480 a year."
     },
     {
         q: "What is the cost in the program General Medicine?",
-        a: "The cost in the General Medicine program is $ 3,300 per year."
+        a: "The cost in the General Medicine program is in dollars 3,300 per year."
     },
     {
         q: "What is the cost in the Pediatrics program?",
-        a: "The cost in the Pediatrics program is $ 3,300 per year."
+        a: "The cost in the Pediatrics program is in dollars 3,300 per year."
     },
     {
         q: "How much does it cost to study at the preparatory course?",
-        a: "The cost of studying at the preparatory course is $ 1980 for citizens of Kyrgyzstan."
+        a: "The cost of studying at the preparatory course is in dollars 1980 for citizens of Kyrgyzstan."
     },
     {
         q: "What is the cost of studying for a master's degree in the Pedagogy program?",
-        a: "The cost of master's degree in the Pedagogy program is $ 1,200 per year."
+        a: "The cost of master's degree in the Pedagogy program is in dollars 1,200 per year."
     },
     {
         q: "What is the cost of master's degree in the program International Relations?",
-        a: "The cost of studying for a master's degree in the program International Relations is $ 1,200 per year."
+        a: "The cost of studying for a master's degree in the program International Relations is in dollars 1,200 per year."
     },
     {
         q: "What is the cost of a master's degree in the Economics program?",
-        a: "The cost of a master's degree in the Economics program is $ 1,200 per year."
+        a: "The cost of a master's degree in the Economics program is in dollars 1,200 per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Management program?",
-        a: "The cost of studying for a master's degree in the Management program is $ 1,200 per year."
+        a: "The cost of studying for a master's degree in the Management program is in dollars 1,200 per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Linguistics program?",
-        a: "The cost of studying for a master's degree in the Linguistics program is $ 1,200 per year."
+        a: "The cost of studying for a master's degree in the Linguistics program is in dollars 1,200 per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Computer Science and Computer Engineering program?",
-        a: "The cost of studying for a master's degree in the Computer Science and Computer Engineering program is $ 3,000 per year."
+        a: "The cost of studying for a master's degree in the Computer Science and Computer Engineering program is in dollars 3,000 per year."
     },
     {
-        q: "What is the cost of college tuition in the program  Economics and accounting?",
-        a: "The cost of college tuition in the program  Economics and Accounting is $1,500 per year."
+        q: "What is the cost of college tuition in the program Economics and accounting?",
+        a: "The cost of college tuition in the program Economics and Accounting is in dollars 1,500 per year."
     },
     {
         q: "What is the cost of college tuition in the Marketing program?",
-        a: "The cost of college tuition in the Marketing program is $ 1,500 per year."
+        a: "The cost of college tuition in the Marketing program is in dollars 1,500 per year."
     },
     {
-        q: "What is the cost of college tuition in the program  Computer systems and complexes?",
-        a: "The cost of college tuition in the program  Computer systems and Complexes is $1,500 per year."
+        q: "What is the cost of college tuition in the program Computer systems and complexes?",
+        a: "The cost of college tuition in the program Computer systems and Complexes is in dollars 1,500 per year."
     },
     {
         q: "What is the cost of college tuition in the program Software of computer technology and automated systems?",
-        a: "The cost of college tuition in the program Software of computer technology and automated systems is $ 1,500 per year."
+        a: "The cost of college tuition in the program Software of computer technology and automated systems is in dollars 1,500 per year."
     },
     {
         q: "What is the cost of college tuition in the Design program?",
-        a: "The cost of college education in the Design program is $ 1,700 per year."
+        a: "The cost of college education in the Design program is in dollars 1,700 per year."
     },
     {
         q: "Tell me about the university",
@@ -236,12 +236,12 @@ qa = [
         a: "Faculty of Engineering and Computer Science consits of 4 programs Computer Science , Electronics , Nanoelectronics Engineering, Applied Mathematics and Informatics, Industrial Engineering."
     },
     {
-        q: "Tell me about Faculty of Social Sciences",
+        q: "Tell me about Faculty of Social Sciences ",
         a: "Social Sciencesconsists of 6 programs:Linguistics, Philology, Psychology , Pedagogy, Journalism and International Law."
     },
     {
         q: "Tell me about Faculty of Economics and Administrative Sciences",
-        a: " Faculty of Economics and Administrative Sciences consists of 3 programs:Economy, International Relationsand Management."
+        a: "Faculty of Economics and Administrative Sciences consists of 3 programs:Economy, International Relationsand Management."
     },
     {
         q: "Tell me about Faculty of Medicine.",

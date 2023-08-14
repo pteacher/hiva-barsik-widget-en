@@ -75,7 +75,7 @@ function get_answer(request) {
     let best_answers = [];
     for (let i = 0; i < qa.length; i++) {
         let answer_fidelity = intersection(request, qa[i].q);
-        if (answer_fidelity > 0.6) {
+        if (answer_fidelity > 1.25) {
             best_answers.push({q: qa[i].a, f: answer_fidelity});
             // return CryptoJS.MD5(qa[i].a);
             // break;
@@ -445,7 +445,6 @@ recognition.grammars = speechRecognitionList;
 recognition.lang = 'en-EN';
 recognition.interimResults = false;
 recognition.maxAlternatives = 1;
-// Формат “грамматики“ используемой нами - это JSpeech Grammar Format (JSGF) - по ссылке можете почитать про это больше.
 
 microphoneIcon.onclick = function () {
     if (!speaking) {
