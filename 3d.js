@@ -222,7 +222,7 @@ const roughnessMipmapper = new RoughnessMipmapper(renderer);
 const camera = new THREE.PerspectiveCamera(70, windowWidth / windowHeight, 1, 10000);
 camera.position.z = 5;
 
-const ambientLight = new THREE.AmbientLight( 0xffffff, 1.5); // soft white light
+const ambientLight = new THREE.AmbientLight( 0xffffff, 1.1); // soft white light
 scene.add( ambientLight );
 
 const loader = new GLTFLoader();
@@ -272,7 +272,7 @@ loader.load('./public/model.glb', function (gltf) {
     });
 
     model.position.set(0, -2.5, 0);
-    model.scale.set(5, 5, 5);
+    model.scale.set(4.9, 4.9, 4.9);
     model.rotation.set(0.2, 0, 0);
     scene.add(model);
 }, undefined, function (error) {

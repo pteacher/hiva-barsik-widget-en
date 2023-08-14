@@ -99,6 +99,19 @@
             }
         }
 
+        #caption {
+            display: block;
+            width: 100%;
+            text-align: center;
+            font-size: 2em;
+            bottom: 20%;
+            position: absolute;
+            color: #ccc;
+            font-family: "Arial Black";
+            padding: 6px 10px;
+            background-color: rgba(9,9,9,0.7);
+        }
+
         @media (max-width: 768px) {
             .button, .outline {
                 width: 60px !important;
@@ -125,26 +138,21 @@
             .outline { 
                 border: 4px solid #B5A4A4;
             }
+            #caption {
+                display: none !important;
+            }
         }
 
         @media (max-width: 170px) {
             .button, .outline, .mic-icon {
                 display: none !important;
             }
+            #caption {
+                display: none !important;
+            }
         }
 
-        #caption {
-            display: block;
-            width: 100%;
-            text-align: center;
-            font-size: 2em;
-            bottom: 20%;
-            position: absolute;
-            color: #ccc;
-            font-family: "Arial Black";
-            padding: 6px 10px;
-            background-color: rgba(9,9,9,0.7);
-        }
+
     </style>
     <title>Cash2u HIVA Integration DEMO</title>
 </head>
