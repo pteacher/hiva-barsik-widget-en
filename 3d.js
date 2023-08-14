@@ -426,7 +426,7 @@ function onWindowResize() {
     renderer.setSize(window.innerWidth, window.innerHeight);
 }
 
-function sayHello() {
+window.sayHello = function() {
     const audio = new Audio("./public/voice/hello.wav");
     audio.play().then();
 }
