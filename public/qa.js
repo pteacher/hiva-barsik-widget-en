@@ -5,23 +5,23 @@ qa = [
     },
     {
         q: "What are the benefits of going to your university?",
-        a: "There are discounts of up to one hundred percent for good ORT results. A twenty percent discount is provided for a certificate with honor."
+        a: "There are discounts of up to one hundred percent for good the National Level University Entrance Exam results. A twenty percent discount is provided for a certificate with honors."
     },
     {
         q: "Are there internal additional tests at the university?",
-        a: "After completing the acceptance of documents, the university conducts an internal English test to determine the level of language proficincy."
+        a: "After completing the acceptance of documents, the university conducts an internal English test to determine the level of language proficiency."
     },
     {
         q: "Does the university provide any dormitory to nonresident students?",
         a: "Partners of Ala Too International University provide dormitories for nonresident and international students."
     },
     {
-        q: "When does university admission start ?",
+        q: "When does university admission start?",
         a: "The admission starts from July of each year."
     },
     {
         q: "Does the university provide a reprieve from the army?",
-        a: "Ala Too International University provides a student with a reprieve l from the army."
+        a: "Ala Too International University."
     },
     {
         q: "What specialties are there in a professional college?",
@@ -72,7 +72,7 @@ qa = [
         a: "Ninth graders who graduated from school with honors upon admission to the college are given a ten percent discount."
     },
     {
-        q: "What discount can get an applicant who graduated from AIU College with a diploma with honors?",
+        q: "What discount can get an applicant who graduated from  the college with a diploma with honors?",
         a: "Applicants who have graduated from the college with a diploma with honors are given a twenty percent discount."
     },
     {
@@ -85,7 +85,7 @@ qa = [
     },
     {
         q: "What discount can I get if I scored 156 points in the National Level University Entrance Exam?",
-        a: "Students who receive 156 to 174 on ORT can study at any department with a 10 percent discount"
+        a: "Students who receive 156 to 174 in the National Level University Entrance Exam can study at any department with a 10 percent discount"
     },
     {
         q: "What discount can I get if I scored 175 points in the National Level University Entrance Exam?",
@@ -129,99 +129,99 @@ qa = [
     },
     {
         q: "What is the cost of bachelor's degree in the program Computer Science and Computer Engineering?",
-        a: "The cost of bachelor's degree in the program Computer Science and Computer Engineering is in dollars 2,500 per year."
+        a: "The cost of bachelor's degree in the program Computer Science and Computer Engineering is 2500 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Applied Mathematics and Computer Science?",
-        a: "The cost of bachelor's degree in the program Applied Mathematics and Computer Science is in dollars 1,500 per year."
+        a: "The cost of bachelor's degree in the program Applied Mathematics and Computer Science is 1500 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Economics?",
-        a: "The cost of bachelor's degree in the program Economics is in dollars 1980 per year."
+        a: "The cost of bachelor's degree in the program Economics is 1980 dollars per year."
     },
     {
         q: "What is the cost of a bachelor's degree in the program International Relations?",
-        a: "The cost of bachelor's degree in the program International Relations is in dollars 1980 per year."
+        a: "The cost of bachelor's degree in the program International Relations is 1980 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program International Law?",
-        a: "The cost of bachelor's degree in the program International Law is in dollars 1,700 per year."
+        a: "The cost of bachelor's degree in the program International Law is 1700 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Management?",
-        a: "The cost of bachelor's degree in the Management program is in dollars 2,080 per year."
+        a: "The cost of bachelor's degree in the Management program is 2080 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Philology?",
-        a: "The cost of bachelor's degree in the program Management is in dollars 1,550 per year."
+        a: "The cost of bachelor's degree in the program Management is 1550 dollars per year."
     },
     {
         q: "What is the cost of undergraduate studies in the Linguistics program?",
-        a: "The cost of undergraduate studies in the Linguistics program is in dollars 1,550 per year."
+        a: "The cost of undergraduate studies in the Linguistics program is 1550 dollars per year."
     },
     {
         q: "What is the cost of bachelor's degree in the program Psychology?",
-        a: "The cost of bachelor's degree in the program Psychology is in dollars 1,700 per year."
+        a: "The cost of bachelor's degree in the program Psychology is 1700 dollars per year."
     },
     {
         q: "What is the cost of a bachelor's degree in the Journalism program?",
-        a: "The cost of a bachelor's degree in the program Journalism is in dollars 1,480 a year."
+        a: "The cost of a bachelor's degree in the program Journalism is 1480 dollars per year."
     },
     {
         q: "What is the cost in the program General Medicine?",
-        a: "The cost in the General Medicine program is in dollars 3,300 per year."
+        a: "The cost in the General Medicine program is 3300 dollars per year."
     },
     {
         q: "What is the cost in the Pediatrics program?",
-        a: "The cost in the Pediatrics program is in dollars 3,300 per year."
+        a: "The cost in the Pediatrics program is 3300 dollars per year."
     },
     {
         q: "How much does it cost to study at the preparatory course?",
-        a: "The cost of studying at the preparatory course is in dollars 1980 for citizens of Kyrgyzstan."
+        a: "The cost of studying at the preparatory course is 1980 dollars for citizens of Kyrgyzstan."
     },
     {
         q: "What is the cost of studying for a master's degree in the Pedagogy program?",
-        a: "The cost of master's degree in the Pedagogy program is in dollars 1,200 per year."
+        a: "The cost of master's degree in the Pedagogy program is 1200 dollars per year."
     },
     {
         q: "What is the cost of master's degree in the program International Relations?",
-        a: "The cost of studying for a master's degree in the program International Relations is in dollars 1,200 per year."
+        a: "The cost of studying for a master's degree in the program International Relations in 1200 dollars per year."
     },
     {
         q: "What is the cost of a master's degree in the Economics program?",
-        a: "The cost of a master's degree in the Economics program is in dollars 1,200 per year."
+        a: "The cost of a master's degree in the Economics program in 1200 dollars per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Management program?",
-        a: "The cost of studying for a master's degree in the Management program is in dollars 1,200 per year."
+        a: "The cost of studying for a master's degree in the Management program is 1200 dollars per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Linguistics program?",
-        a: "The cost of studying for a master's degree in the Linguistics program is in dollars 1,200 per year."
+        a: "The cost of studying for a master's degree in the Linguistics program is 1200 dollars per year."
     },
     {
         q: "What is the cost of studying for a master's degree in the Computer Science and Computer Engineering program?",
-        a: "The cost of studying for a master's degree in the Computer Science and Computer Engineering program is in dollars 3,000 per year."
+        a: "The cost of studying for a master's degree in the Computer Science and Computer Engineering program is 3000 dollars per year."
     },
     {
         q: "What is the cost of college tuition in the program Economics and accounting?",
-        a: "The cost of college tuition in the program Economics and Accounting is in dollars 1,500 per year."
+        a: "The cost of college tuition in the program Economics and Accounting is 1500 dollars per year."
     },
     {
         q: "What is the cost of college tuition in the Marketing program?",
-        a: "The cost of college tuition in the Marketing program is in dollars 1,500 per year."
+        a: "The cost of college tuition in the Marketing program is 1500 dollars per year."
     },
     {
         q: "What is the cost of college tuition in the program Computer systems and complexes?",
-        a: "The cost of college tuition in the program Computer systems and Complexes is in dollars 1,500 per year."
+        a: "The cost of college tuition in the program Computer systems and Complexes is 1500 dollars per year."
     },
     {
         q: "What is the cost of college tuition in the program Software of computer technology and automated systems?",
-        a: "The cost of college tuition in the program Software of computer technology and automated systems is in dollars 1,500 per year."
+        a: "The cost of college tuition in the program Software of computer technology and automated systems is 1500 dollars per year."
     },
     {
         q: "What is the cost of college tuition in the Design program?",
-        a: "The cost of college education in the Design program is in dollars 1,700 per year."
+        a: "The cost of college education in the Design program is 1700 dollars per year."
     },
     {
         q: "Tell me about the university",
@@ -233,15 +233,15 @@ qa = [
     },
     {
         q: "Tell me about Faculty of Engineering and Computer Science",
-        a: "Faculty of Engineering and Computer Science consits of 4 programs Computer Science , Electronics , Nanoelectronics Engineering, Applied Mathematics and Informatics, Industrial Engineering."
+        a: "Faculty of Engineering and Computer Science consists of 4 programs Computer Science, Electronics, Nanoelectronics Engineering, Applied Mathematics and Informatics, Industrial Engineering."
     },
     {
         q: "Tell me about Faculty of Social Sciences ",
-        a: "Social Sciencesconsists of 6 programs:Linguistics, Philology, Psychology , Pedagogy, Journalism and International Law."
+        a: "Social Sciences consists of 6 programs:Linguistics, Philology, Psychology, Pedagogy, Journalism and International Law."
     },
     {
         q: "Tell me about Faculty of Economics and Administrative Sciences",
-        a: "Faculty of Economics and Administrative Sciences consists of 3 programs:Economy, International Relationsand Management."
+        a: "Faculty of Economics and Administrative Sciences consists of 3 programs:Economy, International Relations and Management."
     },
     {
         q: "Tell me about Faculty of Medicine.",
@@ -256,19 +256,19 @@ qa = [
         a: "Ala-Too International University was founded in 1996."
     },
     {
-        q: "Wich kind of faculties are there in the university.",
-        a: "There are 4 faculties Faculty of Engineering and Computer Science, Faculty of Social Sciences ,Faculty of Economics and Administrative Sciences and Faculty of Medicine."
+        q: "Which kind of faculties are there in the university.",
+        a: "There are 4 faculties Faculty of Engineering and Computer Science, Faculty of Social Sciences, Faculty of Economics and Administrative Sciences and Faculty of Medicine."
     },
     {
         q: "How many students study at the university?",
         a: "More then 2500 students study at the university?"
     },
     {
-        q: "How many bloks does the university consist of?",
+        q: "How many blocks does the university consist of?",
         a: "Our university consists of five blocks, where there are classrooms and laboratories equipped with the Internet and modern interactive whiteboards."
     },
     {
-        q: "How many internationl students study at the university?",
+        q: "How many international students study at the university?",
         a: "International students from more than 20 countries study at the university."
     },
     {
@@ -276,8 +276,8 @@ qa = [
         a: "The main language of study is English. Russian and Kyrgyz languages."
     },
     {
-        q: "Which contries does the university have teachers from?",
-        a: "The staffing of the university is composed of highly qualified, experienced, young, active teachers from Kyrgyzstan, Russia,Turkey, USA, Ethiopia, India, Pakistan and other countries."
+        q: "Which countries does the university have teachers from?",
+        a: "The staffing of the university is composed of highly qualified, experienced, young, active teachers from Kyrgyzstan, Russia, Turkey, USA, Ethiopia, India, Pakistan and other countries."
     },
 ]
 
