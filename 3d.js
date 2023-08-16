@@ -505,9 +505,13 @@ recognition.onresult = function (event) {
 
 recognition.onspeechend = function () {
     recognition.stop();
+    console.log('stop')
     animationOutline[0].style.animationIterationCount = '0';
     // microphoneWrapper.style.visibility = 'visible';
     // audioRecordAnimation.style.visibility = 'hidden';
 };
 
-
+recognition.onend = () => {
+    recognition.stop();
+    animationOutline[0].style.animationIterationCount = '0';
+};
