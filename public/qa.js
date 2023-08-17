@@ -228,8 +228,8 @@ qa = [
         a: "Ala-Too International University was established in 1996 and it is located in Bishkek, the Kyrgyz Republic. There are 4 faculties, 3 institutes and 16 departments."
     },
     {
-        q: "Who is the rector of university?",
-        a: "The rector of the university is Zhyldyzbek Zhakshylykov"
+        q: "Who is the president of university?",
+        a: "The president of the university is Zhyldyzbek Zhakshylykov"
     },
     {
         q: "Tell me about Faculty of Engineering and Computer Science",
