@@ -421,7 +421,7 @@ function onWindowResize() {
 }
 
 window.sayHello = function() {
-    const audio = new Audio("./public/voice/hello.wav");
+    const audio = new Audio("./public/voice/hello_" + Math.round(Math.random()) + ".wav");
     audio.play().then();
     speaking = true;
     actions["Mouth loop"].setEffectiveWeight(1);
