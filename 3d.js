@@ -1,7 +1,6 @@
 import * as THREE from 'three';
 import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader';
 import {RoughnessMipmapper} from 'three/examples/jsm/utils/RoughnessMipmapper';
-import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls';
 
 let mouseX = 0, mouseY = 0;
 let windowWidth = window.innerWidth;
@@ -211,18 +210,14 @@ function buildDictionary(qaArray, stopwords) {
         return word.replace(punctRE, '').replace(spaceRE, " ");
     }
 
-    // Function to check if a word is a stopword
     function isStopword(word) {
         return stopwords.includes(word.toLowerCase());
     }
 
-    // Iterate over each object in the qaArray
     for (let i = 0; i < qaArray.length; i++) {
         const {q} = qaArray[i];
 
-        // Split the question and answer into an array of words
         const words = [...q.split(' ')];
-        // Iterate over each word in the words array
         for (let j = 0; j < words.length; j++) {
             let word = removePunctuation(words[j].toLowerCase());
             if (word === '') {
@@ -273,7 +268,6 @@ function transliterate(word) {
         yo: 'ё',
         yu: 'ю',
         zh: 'ж',
-        // Add more substitution rules as needed
     };
 
     for (let [key, value] of Object.entries(substitutions)) {
@@ -290,7 +284,7 @@ const roughnessMipmapper = new RoughnessMipmapper(renderer);
 const camera = new THREE.PerspectiveCamera(70, windowWidth / windowHeight, 1, 10000);
 camera.position.z = 5;
 
-const ambientLight = new THREE.AmbientLight(0xffffff, 1.1); // soft white light
+const ambientLight = new THREE.AmbientLight(0xffffff, 1.1);
 scene.add(ambientLight);
 
 const loader = new GLTFLoader();

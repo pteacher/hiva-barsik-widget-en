@@ -279,6 +279,46 @@ qa = [
         q: "Which countries does the university have teachers from?",
         a: "The staffing of the university is composed of highly qualified, experienced, young, active teachers from Kyrgyzstan, Russia, Turkey, USA, Ethiopia, India, Pakistan and other countries."
     },
+    {
+        q: "Hello",
+        a: "Hello! Nice to meet you"
+    },
+    {
+        q: "Who are you",
+        a: "My name is Barsik and I am a voice assistant. How can I help you"
+    },
+    {
+        q: "What can you do",
+        a: "That's what I can do"
+    },
+    {
+        q: "Consultation",
+        a: "I can consult you about the university"
+    },
+    {
+        q: "what faculties are there",
+        a: "There are Faculty of Engineering and Computer Science,Faculty of Social Sciences,Faculty of Economics and Administrative Sciences and Faculty of Medicine"
+    },
+    {
+        q: "What is the cost of a bachelor's degree in the Economics program?",
+        a: "The cost of a bachelor's degree in the Economics program is 1900 dollars per year."
+    },
+    {
+        q: "Office navigation",
+        a: "Which office are you looking for"
+    },
+    {
+        q: "Where is the  dean's office of Faculty of Medicine",
+        a: "The dean's office of Faculty of Medicine Kudaibergen Osmonaliev is located in the D block on the second floor, office 211."
+    },
+    {
+        q: "Thank you",
+        a: "You are welcome"
+    },
+    {
+        q: "See you",
+        a: "Have a nice day"
+    },
 ]
 
 
