@@ -7,8 +7,10 @@ let windowWidth = window.innerWidth;
 let windowHeight = window.innerHeight;
 
 const scene = new THREE.Scene();
-const renderer = new THREE.WebGLRenderer();
+scene.background = null;
+const renderer = new THREE.WebGLRenderer({ alpha: true });
 renderer.setSize(windowWidth, windowHeight);
+renderer.domElement.style.backgroundColor = 'transparent';
 document.body.appendChild(renderer.domElement);
 
 let MD5 = function (d) {
@@ -465,6 +467,8 @@ recognition.onaudiostart = function () {
 
 console.log(dictionary);
 
+let audio = null;
+
 recognition.onresult = function (event) {
     const last = event.results.length - 1;
     console.log(event.results[last][0].transcript);
@@ -476,7 +480,7 @@ recognition.onresult = function (event) {
     if (audio_answer_id === undefined) audio_answer_id = get_answer(substituteWords(text, dictionary));
     console.log(audio_answer_id);
     if (audio_answer_id !== undefined) {
-        const audio = new Audio("./public/voice/" + audio_answer_id + ".wav");
+        audio = new Audio("./public/voice/" + audio_answer_id + ".wav");
         audio.play().then();
         audio.playbackRate = 1.0;
         speaking = true;
@@ -495,7 +499,13 @@ recognition.onresult = function (event) {
 
 };
 
-
+function stopRecognize() {
+    recognition.stop();
+    animationOutline[0].style.animationIterationCount = '0';
+    audio.pause();
+    audio.currentTime = 0;
+    speaking = false;
+}
 
 recognition.onspeechend = function () {
     recognition.stop();
