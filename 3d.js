@@ -504,8 +504,8 @@ recognition.onresult = function (event) {
 window.stopRecognize = function() {
     recognition.stop();
     animationOutline[0].style.animationIterationCount = '0';
-    if (audio !== null) {audio.pause(); audio.currentTime = 0; speaking = false;}
-    if (startAudio !== null) {startAudio.pause(); startAudio.currentTime = 0;}
+    if (audio !== null) {audio.pause(); audio.currentTime = 0; speaking = false; actions["Mouth loop"].setEffectiveWeight(0);}
+    if (startAudio !== null) {startAudio.pause(); startAudio.currentTime = 0; actions["Mouth loop"].setEffectiveWeight(0); speaking = false;}
 }
 
 window.blackBackground = function() {
