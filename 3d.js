@@ -499,7 +499,7 @@ recognition.onresult = function (event) {
 
 };
 
-function stopRecognize() {
+window.stopRecognize = function() {
     recognition.stop();
     animationOutline[0].style.animationIterationCount = '0';
     audio.pause();
