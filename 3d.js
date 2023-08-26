@@ -507,6 +507,14 @@ window.stopRecognize = function() {
     speaking = false;
 }
 
+window.blackBackground = function() {
+    scene.background = new THREE.Color(0x000000);
+}
+
+window.noneBackground = function() {
+    scene.background = null;
+}
+
 recognition.onspeechend = function () {
     recognition.stop();
     console.log('stop')
