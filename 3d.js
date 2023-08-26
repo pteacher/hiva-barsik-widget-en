@@ -422,12 +422,14 @@ function onWindowResize() {
     renderer.setSize(window.innerWidth, window.innerHeight);
 }
 
+let startAudio = null;
+
 window.sayHello = function() {
-    const audio = new Audio("./public/voice/hello_" + Math.round(Math.random()) + ".wav");
-    audio.play().then();
+    startAudio = new Audio("./public/voice/hello_" + Math.round(Math.random()) + ".wav");
+    startAudio.play().then();
     speaking = true;
     actions["Mouth loop"].setEffectiveWeight(1);
-    audio.onended = function () {
+    startAudio.onended = function () {
         actions["Mouth loop"].setEffectiveWeight(0);
         speaking = false;
         recognition.start();
@@ -502,9 +504,8 @@ recognition.onresult = function (event) {
 window.stopRecognize = function() {
     recognition.stop();
     animationOutline[0].style.animationIterationCount = '0';
-    audio.pause();
-    audio.currentTime = 0;
-    speaking = false;
+    if (audio !== null) {audio.pause(); audio.currentTime = 0; speaking = false;}
+    if (startAudio !== null) {startAudio.pause(); startAudio.currentTime = 0;}
 }
 
 window.blackBackground = function() {
