@@ -508,6 +508,10 @@ window.stopRecognize = function() {
     if (startAudio !== null) {startAudio.pause(); startAudio.currentTime = 0; actions["Mouth loop"].setEffectiveWeight(0); speaking = false;}
 }
 
+window.clearAfterClose = function() {
+    document.getElementById("caption").innerHTML = '';
+}
+
 window.blackBackground = function() {
     scene.background = new THREE.Color(0x000000);
 }
