@@ -5,6 +5,9 @@
     <style>
         body {
             margin: 0;
+            display: flex;
+            /* z-index: 1; */
+            align-items: end;
         }
 
         .box {
@@ -15,14 +18,15 @@
         }
 
         .main-container {
-            /*position: relative;*/
+            width: 100%;
         }
 
         #mic {
             position: absolute;
-            top: auto;
+            top: -15px;
             left: 50%; 
             transform: translate(-50%, -50%);
+            height: 60px;
         }
 
         .object {
@@ -117,7 +121,7 @@
             text-align: center;
             font-size: 1.5em;
             bottom: 0px;
-            position: absolute;
+            position: static;
             color: #ccc;
             font-family: "Arial Black";
             padding: 6px 0px;
